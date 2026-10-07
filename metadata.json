@@ -1,0 +1,6 @@
+{
+  "name": "MedRisk AI — Readmission Risk Prediction",
+  "description": "Explainable AI-Based Hospital Readmission Risk Prediction Web Application powered by Machine Learning (XGBoost, Random Forest, Logistic Regression), SHAP interpretability, and the UCI Diabetes dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
